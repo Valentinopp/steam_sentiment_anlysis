@@ -96,7 +96,7 @@ Analisis sentimen yang dilakukan mampu memberikan insight mengenai persepsi peng
 
 Pastikan Python telah terpasang pada sistem (disarankan Python versi 3.8 atau lebih baru). Selanjutnya, lakukan *clone* repositori ini:
 
-git clone https://github.com/Valentinopp/steam_sentiment_analysis.git
+git clone https://github.com/Valentinopp/steam_sentiment_analysis.git<br>
 cd steam-sentiment-analysis
 
 ---
