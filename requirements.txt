@@ -4,3 +4,4 @@ psycopg2==2.9.11
 python-dotenv==1.2.1
 scikit_learn==1.8.0
 tqdm==4.67.1
+nltk==3.9.2
